@@ -1,0 +1,40 @@
+.kur {color: #8da0f7}
+body {
+	background-image: url(333.jpg);
+    .kur padding: 14px 16 px ;
+}
+.uvod {background-color: #f0dbbb;
+	   opacity: 0.9;
+	   border: solid 2px black;
+}
+     {font-size: 40px;
+     font-family: arial;
+	 padding-left: 40px
+     padding-top: 40px
+}	
+.topnav{
+	background-color: #c3c4c2;
+	overflow: hidden;
+}
+.topnav a{
+	float:  left;
+	color: black;
+	text-align: center;
+ 	padding: 14px 16px;
+ 	text-decoration: none;
+ 	font-size: 17px;
+}
+.topnav a:hover{
+	background-color: #41c7f4;
+	color: black;
+}
+.topnav a:active{
+	background-color: white;
+	color: #41c7f4;
+}
+.omeni{
+	background-color: #9175ff;	
+	padding: 20px;
+	margin-top: 10px;
+	margin-left: 80%;
+}
